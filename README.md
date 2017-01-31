@@ -1,4 +1,4 @@
-# [Lauren Ho - Personal Website]
+# Lauren Ho - Personal Website
 
 ## Copyright and License
 
