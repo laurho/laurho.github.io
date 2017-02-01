@@ -546,6 +546,9 @@ footer ul li a.active {
   opacity: 0;
   display: none;
 }
+#portfolioModal6 .carousel-control.left, .carousel-control.right{
+    background-image: none;
+}
 #portfolioModal5 .iframe{
     margin-bottom: 20px;
 }
