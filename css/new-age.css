@@ -504,6 +504,7 @@ footer ul li a.active {
 .portfolio-modal .modal-content img {
   margin-left: auto;
   margin-right: auto;
+  height: 500px;
   margin-bottom: 30px;
 }
 .portfolio-modal .close-modal {
