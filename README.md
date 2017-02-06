@@ -1,5 +1,4 @@
 # Lauren Ho - Personal Website
-
-## Copyright and License
-
-Copyright 2017 Lauren Ho
+Go to [laurho.github.io](laurho.github.io) to check it out!
+## Boostrap Theme 
+The website was based off of the New Age and Freelancer theme from Bootstrap
