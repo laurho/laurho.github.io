@@ -263,15 +263,17 @@ section.about .about-pic{
     width: auto;
     border-radius: 80%;
 }
-section.about .about-pic:hover{
+
+/*section.about .about-pic:hover{
     transform:scale(1.1);
-    -ms-transform:scale(1.1); /* IE 9 */
-    -moz-transform:scale(1.1); /* Firefox */
-    -webkit-transform:scale(1.1); /* Safari and Chrome */
-    -o-transform:scale(1.1); /* Opera */
+    -ms-transform:scale(1.1); 
+    -moz-transform:scale(1.1); 
+    -webkit-transform:scale(1.1); 
+    -o-transform:scale(1.1); 
     transition: all .4s;  
     border-radius: 80%;
-}
+}*/
+
 section.about .img-wrapper{
     height: 250px;
     width: 250px;
